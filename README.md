@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ProfeAnge
+- 👋 Hi, I’m @ProfeAnge Matematic
 - 👀 I’m interested in projects 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 
+- 
 - 📫 How to reach me ...
 
 <!---
